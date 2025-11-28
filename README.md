@@ -3,11 +3,11 @@
 **Software Developer & AI Enthusiast**
 
 ## 🚀 Technical Skills
-**Backend:** Node.js • Python • PHP • Java  
+**Backend:** Node.js • Python • PHP • ShellScript  
 **Frontend:** JavaScript • React • HTML • CSS  
 **Database:** MySQL • MongoDB • PostgreSQL  
 **AI/ML:** TensorFlow • PyTorch • LLMs • AI APIs  
-**DevOps:** Docker • AWS • Linux • Nginx  
+**DevOps:** Docker • GCP • Linux • Nginx  
 **Tools:** Git • REST APIs • AI Integration • Web Security
 
 ## 🤖 AI Specialties
