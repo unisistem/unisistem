@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello! 👋 I'm Davi Ribas
 
-<!--
-**unisistem/unisistem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer & AI Enthusiast**
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
+**Backend:** Node.js • Python • PHP • Java  
+**Frontend:** JavaScript • React • HTML • CSS  
+**Database:** MySQL • MongoDB • PostgreSQL  
+**AI/ML:** TensorFlow • PyTorch • LLMs • AI APIs  
+**DevOps:** Docker • AWS • Linux • Nginx  
+**Tools:** Git • REST APIs • AI Integration • Web Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI Specialties
+- AI Model Integration & Fine-tuning
+- LLM Applications & Chatbots  
+- Machine Learning Solutions
+- AI-powered Web Applications
+
+## 📫 Open to Projects & Opportunities
+**Portfolio:** https://unisistem.info  
+**Email:** contato@unisistem.com.br
